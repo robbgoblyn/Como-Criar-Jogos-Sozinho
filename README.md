@@ -9,4 +9,4 @@ Marmoset Toolbag 4:         https://marmoset.co/toolbag/
 Substance Painter 3D:       https://www.substance3d.com/
 Substance Designer 3D:      https://www.substance3d.com/
 Marvelous Designer 11:      https://www.marvelousdesigner.com/
-ZBrush 2022.0.5:             https://pixologic.com/
+ZBrush 2022.0.5:            https://pixologic.com/
